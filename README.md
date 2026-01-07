@@ -30,6 +30,12 @@ npx playwright install
 npx playwright test
 ```
 
+### Run Tests in chromium
+
+```bash
+npx playwright test --project=chromium
+```
+
 ### Run a specific test file
 
 ```bash
